@@ -2,11 +2,7 @@
 
 I work at [Nabu Casa](https://github.com/nabucasa) on hardware and on [ESPHome](http://esphome.io).
 
----
-
-I'm a big home automation nerd. You'll find me working on computers/electronics/embedded hardware/software/3-D printing and even pro-lighting...sometimes I even make stuff. 😉
-
----
+I hope you find my work useful. If you do and want to support me, please check out the links below.
 
 [![Sponsor me on GitHub](https://img.shields.io/badge/sponsor%20me%20on%20GitHub-sponsor-green.svg)](https://github.com/sponsors/kbx81)
 [![Support Nabu Casa](https://img.shields.io/badge/Nabu%20Casa-support-navy.svg)](https://nabucasa.com)
